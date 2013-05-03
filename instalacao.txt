@@ -1,0 +1,29 @@
+Bem vindo!
+Módulo carrinho em ajax!
+
+Instalação ->
+Colocar código do arquivo botaopersonalizado.php na página que você usa como catalago, pode ser os arquivos,
+ list.phtml,new.phtml, e view.phtml, todos se encontram dentro de frontend->default->seu tema->catalago->product->
+
+
+também subistituir a function publica addAction() pela que esta no arquivo cartcontroller.php.
+
+Limpe o cache e pronto!
+
+Obs: você terá que ter jquery em seu magento.
+
+Como sou bonzinho vou disponibilzar meu códico se precisar é só add no head.phtml
+
+<script type="text/javascript" src="https://loja.queropreco.com/jquery.js"></script>
+
+<script type="text/javascript">var $j = jQuery.noConflict(); </script>
+
+
+Tem uma imagem como amostra.
+
+Claro que tenho um carrinho mais avançado que é o pro por  $70,00
+
+Atenciosamente
+
+Jefferson Leite
+jeffersonpl@gmail.com
